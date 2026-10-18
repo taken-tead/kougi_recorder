@@ -1,0 +1,9 @@
+{
+  "name": "講義ノート録音",
+  "short_name": "講義録音",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef6f7",
+  "theme_color": "#087e8b"
+}
